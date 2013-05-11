@@ -24,7 +24,7 @@ gem 'jquery-rails'
 
 gem 'omniauth-meetup'
 
-gem 'meetup', :git => 'git@github.com:prudhvi/meetup.git'
+gem 'meetup', :git => 'git://github.com/prudhvi/meetup.git'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'

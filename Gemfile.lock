@@ -1,5 +1,5 @@
 GIT
-  remote: git@github.com:prudhvi/meetup.git
+  remote: git://github.com/prudhvi/meetup.git
   revision: 53f8f4b5d0aea7374cd6b0676b69d699dc27c3e1
   specs:
     meetup (0.0.1)
