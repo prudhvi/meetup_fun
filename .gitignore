@@ -15,6 +15,6 @@
 /tmp
 .idea
 *.swp
-config/initializers/omniauth.rb
+config/environments/heroku_env.rb
 
 

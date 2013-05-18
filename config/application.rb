@@ -1,5 +1,10 @@
 require File.expand_path('../boot', __FILE__)
 
+# Load heroku vars from local file
+heroku_env = File.absolute_path('config/environments/heroku_env.rb')
+load(heroku_env) if File.exists?(heroku_env)
+
+
 require 'rails/all'
 
 if defined?(Bundler)
