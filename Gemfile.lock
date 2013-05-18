@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/prudhvi/meetup.git
-  revision: d386b1a886fb4bc08ec22278c2e78719044b8df1
+  revision: c08af4b3a910d73619cfecdefc34749cbdeecb1c
   specs:
     meetup (0.0.1)
       httparty
